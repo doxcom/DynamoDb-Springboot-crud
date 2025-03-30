@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="76556e15-bb9f-489c-92e9-104cf8da93c0" name="Changes" comment="fist changes to project">
-      <change afterPath="$PROJECT_DIR$/.idea/src/main/java/com/exampleDynamodbaws/DynamoDb_Springboot_crud/entity/Employee.java" afterDir="false" />
+    <list default="true" id="76556e15-bb9f-489c-92e9-104cf8da93c0" name="Changes" comment="adding folders and classes">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/main/java/com/exampleDynamodbaws/DynamoDb_Springboot_crud/config/DynamoDbConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/main/java/com/exampleDynamodbaws/DynamoDb_Springboot_crud/entity/Department.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/com/exampleDynamodbaws/DynamoDb_Springboot_crud/entity/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/src/main/java/com/exampleDynamodbaws/DynamoDb_Springboot_crud/entity/Employee.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,12 +20,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2ut3YYq83g6xSeWoAcDoMLH5FPe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -32,6 +43,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Dev",
     "node.js.detected.package.eslint": "true",
@@ -42,10 +54,18 @@
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "profiler.jvm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="DynamoDb-Springboot-crud" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -62,7 +82,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1743054091868</updated>
-      <workItem from="1743054093073" duration="676000" />
+      <workItem from="1743054093073" duration="713000" />
+      <workItem from="1743301305227" duration="4103000" />
     </task>
     <task id="LOCAL-00001" summary="fist changes to project">
       <option name="closed" value="true" />
@@ -72,7 +93,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743054211868</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding folders and classes">
+      <option name="closed" value="true" />
+      <created>1743054799659</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743054799659</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,6 +109,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fist changes to project" />
-    <option name="LAST_COMMIT_MESSAGE" value="fist changes to project" />
+    <MESSAGE value="adding folders and classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding folders and classes" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
