@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2942ebc-7fc4-4ba9-a5d9-3c3c29cf0ef9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/exampleDynamodbaws/DynamoDb_Springboot_crud/controller/EmployeeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/com/exampleDynamodbaws/DynamoDb_Springboot_crud/DynamoDbSpringbootCrudApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/com/exampleDynamodbaws/DynamoDb_Springboot_crud/config/DynamoDbConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/com/exampleDynamodbaws/DynamoDb_Springboot_crud/entity/Department.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/com/exampleDynamodbaws/DynamoDb_Springboot_crud/entity/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/test/java/com/exampleDynamodbaws/DynamoDb_Springboot_crud/DynamoDbSpringbootCrudApplicationTests.java" beforeDir="false" />
+    <list default="true" id="c2942ebc-7fc4-4ba9-a5d9-3c3c29cf0ef9" name="Changes" comment="classes finish to insert employee on db, moving directories">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/SuccessConsoleOutputExample/Success_Console_springboot_output" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,6 +53,19 @@
     </configuration>
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="classes finish to insert employee on db, moving directories">
+      <option name="closed" value="true" />
+      <created>1743386007370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743386007370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="classes finish to insert employee on db, moving directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="classes finish to insert employee on db, moving directories" />
   </component>
 </project>

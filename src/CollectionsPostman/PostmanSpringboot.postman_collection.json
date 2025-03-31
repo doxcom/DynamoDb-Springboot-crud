@@ -1,0 +1,38 @@
+{
+	"info": {
+		"_postman_id": "d3504cb5-c447-4c30-b060-f555e6a51c67",
+		"name": "PostmanSpringboot",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33567158"
+	},
+	"item": [
+		{
+			"name": "Post_Insert_Employee",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"firstName\": \"Shiba\",\r\n    \"lastName\": \"dawoodi\",\r\n    \"email\": \"shiwad@gmail.com\",\r\n    \"department\": {\r\n        \"departmentName\": \"IT\",\r\n        \"departmentCode\": \"IT--006\"\r\n    }\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:8083/employee",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8083",
+					"path": [
+						"employee"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
