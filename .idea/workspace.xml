@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2942ebc-7fc4-4ba9-a5d9-3c3c29cf0ef9" name="Changes" comment="success output example log, and postman collection added to test post employee with json body">
+    <list default="true" id="c2942ebc-7fc4-4ba9-a5d9-3c3c29cf0ef9" name="Changes" comment="excluding keys">
       <change beforePath="$PROJECT_DIR$/src/main/java/com/exampleDynamodbaws/DynamoDb_Springboot_crud/config/DynamoDbConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/exampleDynamodbaws/DynamoDb_Springboot_crud/config/DynamoDbConfiguration.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,13 +77,22 @@
       <option name="project" value="LOCAL" />
       <updated>1743387541474</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="excluding keys">
+      <option name="closed" value="true" />
+      <created>1743387630472</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1743387630472</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="classes finish to insert employee on db, moving directories" />
     <MESSAGE value="success output example log, and postman collection added to test post employee with json body" />
-    <option name="LAST_COMMIT_MESSAGE" value="success output example log, and postman collection added to test post employee with json body" />
+    <MESSAGE value="excluding keys" />
+    <option name="LAST_COMMIT_MESSAGE" value="excluding keys" />
   </component>
 </project>
